@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e10919c6-6f47-4118-916b-5aaf1e4cbfab" name="Changes" comment="Criando métodos que modificam valores">
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/sreenmatch/models/Series.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/sreenmatch/models/Title.java" afterDir="false" />
+    <list default="true" id="e10919c6-6f47-4118-916b-5aaf1e4cbfab" name="Changes" comment=" Mesmo nome, comportamentos diferentes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/sreenmatch/models/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/sreenmatch/models/Movie.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,12 +22,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "devFelipeBarbosa"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;devFelipeBarbosa&quot;
   }
-}]]></component>
+}</component>
   <component name="GitToolBoxStore">
     <option name="recentBranches">
       <RecentBranches>
@@ -57,12 +53,12 @@
       </RecentBranches>
     </option>
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/devFelipeBarbosa/ScreenMatchAlura.git",
-    "accountId": "bde73edd-24ba-407d-9e28-576a877ab7ff"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/devFelipeBarbosa/ScreenMatchAlura.git&quot;,
+    &quot;accountId&quot;: &quot;bde73edd-24ba-407d-9e28-576a877ab7ff&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -74,14 +70,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -121,7 +117,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725709257218</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary=" Mesmo nome, comportamentos diferentes">
+      <option name="closed" value="true" />
+      <created>1725713935207</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725713935207</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -137,6 +141,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Criando métodos que modificam valores" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criando métodos que modificam valores" />
+    <MESSAGE value=" Mesmo nome, comportamentos diferentes" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Mesmo nome, comportamentos diferentes" />
   </component>
 </project>
