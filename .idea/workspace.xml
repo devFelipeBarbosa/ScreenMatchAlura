@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e10919c6-6f47-4118-916b-5aaf1e4cbfab" name="Changes" comment="">
+    <list default="true" id="e10919c6-6f47-4118-916b-5aaf1e4cbfab" name="Changes" comment="Criando métodos que modificam valores">
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/sreenmatch/models/Series.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/sreenmatch/models/Title.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/sreenmatch/models/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/sreenmatch/models/Movie.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +26,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "devFelipeBarbosa"
+  }
+}]]></component>
   <component name="GitToolBoxStore">
     <option name="recentBranches">
       <RecentBranches>
@@ -57,7 +67,9 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2ldDnxyMvWSgmxaNwSqzhU9IqGs" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -93,6 +105,23 @@
       <option name="presentableId" value="Default" />
       <updated>1725501230456</updated>
     </task>
+    <task id="LOCAL-00001" summary="Criando métodos que modificam valores">
+      <option name="closed" value="true" />
+      <created>1725709224617</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725709224617</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Criando métodos que modificam valores">
+      <option name="closed" value="true" />
+      <created>1725709257218</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725709257218</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -105,5 +134,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Criando métodos que modificam valores" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criando métodos que modificam valores" />
   </component>
 </project>
