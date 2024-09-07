@@ -1,3 +1,4 @@
+import br.com.alura.sreenmatch.calculate.timeCalculator;
 import br.com.alura.sreenmatch.models.Movie;
 import br.com.alura.sreenmatch.models.Series;
 
@@ -26,6 +27,16 @@ public class Main {
         lost.setMinutesChapterPerSeason(10);
         System.out.println("Duração para maratornar Lost (min): " + lost.getMovieDuration());
 
+        Movie otherMovie = new Movie();
+        otherMovie.setName("Avatar");
+        otherMovie.setYearRelease(2023);
+        otherMovie.setMovieDuration(100);
+
+        timeCalculator calculator = new timeCalculator();
+        calculator.include(myMovie);
+        calculator.include(otherMovie);
+        calculator.include(lost);
+        System.out.println(calculator.getTotalTime());
 
     }
 }
