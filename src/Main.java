@@ -49,7 +49,5 @@ public class Main {
         chapter.setTotalViews(300);
         filter.filter(chapter);
 
-
-
     }
 }
