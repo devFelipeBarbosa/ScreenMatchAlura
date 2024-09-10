@@ -4,6 +4,8 @@ import br.com.alura.sreenmatch.models.Chapter;
 import br.com.alura.sreenmatch.models.Movie;
 import br.com.alura.sreenmatch.models.Series;
 
+import java.util.ArrayList;
+
 public class Main {
     public static void main(String[] args) {
         Movie myMovie = new Movie();
@@ -48,6 +50,27 @@ public class Main {
         chapter.setSeries(lost);
         chapter.setTotalViews(300);
         filter.filter(chapter);
+
+        Movie moviePaulo = new Movie();
+        moviePaulo.setMovieDuration(200);
+        moviePaulo.setName("Dogville");
+        moviePaulo.setYearRelease(2003);
+        moviePaulo.evaluate(10);
+
+        ArrayList<Movie> movieList = new ArrayList<>();
+        movieList.add(moviePaulo);
+        movieList.add(myMovie);
+        movieList.add(otherMovie);
+
+        System.out.println("Tamanho da lista " + movieList.size());;
+        System.out.println("Primeiro filme " + movieList.get(0).getName());
+        System.out.println(movieList);
+
+
+
+
+
+
 
     }
 }
